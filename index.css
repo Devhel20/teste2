@@ -13,7 +13,7 @@
     }
     
     .menu {
-        width:100vw;
+        width:105vw;
         height:60px;
         font-size:1vw;
         background-color:#b8b8b8;
@@ -22,21 +22,21 @@
     }
     
     .baixo {
-        width:100vw;
+        width:105vw;
         height:650px;
     }
     
     .final {
         font-size:2vw;
         border: 3px solid black;
-        width:100vw;
+        width:105vw;
         height:210px;
         background-color:#b8b8b8;;
     }
     
     .meio {
         float:right;
-        width:100vw;
+        width:105vw;
         height:300px;
         font-size:5vw;
         margin-right:-30px;
@@ -63,20 +63,18 @@
     
     .meio2 {
         float:right;
-        width:42vw;
-        height:300px;
-        font-size:2vw;
-        margin-right:-10px;
+        width:45vw;
+        height:270px;
+        font-size:2vw;       
         z-index:10000;
         margin-top:20px;
     }
     
     .meio3 {
         float:left;
-        width:42vw;
-        height:300px;
-        font-size:2vw;
-        margin-left:15px;
+        width:45vw;
+        height:270px;
+        font-size:2vw;       
         z-index:10000;
         margin-top:20px;
     }
@@ -86,8 +84,8 @@
     
     
     .t {
-        width:100vw;
-        height:3px;
+        width:105vw;
+        height:2px;
         background-color:#c7c7c7;
         clear:both;
     }
@@ -110,20 +108,20 @@
     }
     
     .sepa {
-        width:100vw;
+        width:105vw;
         height:2px;
         background-color:#c7c7c7;
     }
     
     img {
-        width:42vw;
+        width:45vw;
         height:180px;
         border:3px black solid;
         
     }
     
     .pes {
-        width:100vw;
+        width:105vw;
         height:100px;
         background-color:#ffffff;
         align-items:center;
@@ -145,7 +143,7 @@
         margin-top:10px;
         margin-left:120px;
         font-size:5vw;
-        border:2px black solid;
+        border:1px black solid;
     }
     
     .link2 {
@@ -163,8 +161,8 @@
         align-items:center;
         background-color:#b8b8b8;
         z-index:10000000;
-        width:35vw;
-        height:150px;
+        width:40vw;
+        height:110px;
         
         
     }
@@ -174,7 +172,7 @@
         align-items:center;
         justify-content:space-around;
         width:43vw;
-        height:250px;
+        height:280px;
         background-color:#b8b8b8;
         z-index:100000;
         border:0px black solid;
@@ -187,7 +185,7 @@
         color:black;
         text-decoration:none;
         font-family:sans-serif;
-        font-size:10px;
+        font-size:30px;
         letter-spacing:4px;
         margin-left:-13px;
         top:15px;
