@@ -13,7 +13,7 @@
     }
     
     .menu {
-        width:105vw;
+        width:110vw;
         height:70px;
         font-size:1vw;
         background-color:#b8b8b8;
@@ -22,21 +22,21 @@
     }
     
     .baixo {
-        width:105vw;
+        width:110vw;
         height:200px;
     }
     
     .final {
         font-size:2vw;
         border: 3px solid black;
-        width:105vw;
+        width:110vw;
         height:100px;
         background-color:#b8b8b8;;
     }
     
     .meio {
         float:right;
-        width:105vw;
+        width:110vw;
         height:300px;
         font-size:5vw;
         margin-right:-30px;
@@ -68,7 +68,7 @@
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
-        margin-right:-10px;
+        margin-left:30px;
     }
     
     .meio3 {
@@ -86,7 +86,7 @@
     
     
     .t {
-        width:105vw;
+        width:110vw;
         height:2px;
         background-color:#c7c7c7;
         clear:both;
@@ -110,7 +110,7 @@
     }
     
     .sepa {
-        width:105vw;
+        width:110vw;
         height:2px;
         background-color:#c7c7c7;
     }
