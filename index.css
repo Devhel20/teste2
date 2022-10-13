@@ -1,7 +1,7 @@
 @media screen and (max-width: 600px) {
     * {
-        margin:1;
-        padding:1;
+        margin:0;
+        padding:0;
     }
     
     .dentro {
@@ -14,7 +14,7 @@
     
     .menu {
         width:105vw;
-        height:60px;
+        height:70px;
         font-size:1vw;
         background-color:#b8b8b8;
         border: 2px black solid;
@@ -23,7 +23,7 @@
     
     .baixo {
         width:105vw;
-        height:650px;
+        height:200px;
     }
     
     .final {
@@ -51,7 +51,7 @@
         font-size:15vw;
         width:13vw;
         z-index:2000;
-        height:60px;
+        height:70px;
     }
     
     .meio section{
@@ -65,7 +65,6 @@
         float:right;
         width:46vw;
         height:270px;
-        margin-right:-30px;
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
@@ -76,7 +75,7 @@
         width:46vw;
         height:270px;
         font-size:1vw;
-        margin-left:-40px;
+        margin-left:40px;
         z-index:10000;
         margin-top:20px;
     }
@@ -147,6 +146,7 @@
         margin-left:120px;
         font-size:5vw;
         border:1px black solid;
+        float:left;
     }
     
     .link2 {
