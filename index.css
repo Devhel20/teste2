@@ -63,21 +63,23 @@
     
     .meio2 {
         float:right;
-        width:46vw;
+        width:48vw;
         height:270px;
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
+        margin-left:30px;
         
     }
     
     .meio3 {
         float:left;
-        width:46vw;
+        width:48vw;
         height:270px;
         font-size:1vw;
         z-index:10000;
         margin-top:20px;
+        margin-left:30px;
     }
     
     
@@ -115,7 +117,7 @@
     }
     
     img {
-        width:46vw;
+        width:48vw;
         height:180px;
         border:3px black solid;
         
