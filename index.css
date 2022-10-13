@@ -17,7 +17,7 @@
         height:80px;
         font-size:1vw;
         background-color:#b8b8b8;
-        border: 2px black solid;
+        border: 3px black solid;
         
     }
     
@@ -68,7 +68,7 @@
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
-        margin-left:50px;
+        margin-left:-50px;
         
     }
     
