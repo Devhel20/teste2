@@ -5,17 +5,17 @@
     }
     
     .dentro {
-        width:80vw;
-        height:165px;
+        width:80%;
+        height:150px;
         z-index:10000;
         background-color:#b8b8b8;
         float:right;
     }
     
     .menu {
-        width:100vw;
-        height:165px;media
-        font-size:4vw;
+        width:100%;
+        height:150px;
+        font-size:3.5vw;
         background-color:#b8b8b8;
         border: 3px black solid;
         
