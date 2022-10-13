@@ -14,7 +14,7 @@
     
     .menu {
         width:110vw;
-        height:70px;
+        height:80px;
         font-size:1vw;
         background-color:#b8b8b8;
         border: 2px black solid;
@@ -23,7 +23,7 @@
     
     .baixo {
         width:110vw;
-        height:200px;
+        height:600px;
     }
     
     .final {
@@ -51,7 +51,7 @@
         font-size:15vw;
         width:13vw;
         z-index:2000;
-        height:70px;
+        height:80px;
     }
     
     .meio section{
@@ -68,7 +68,7 @@
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
-        margin-left:30px;
+        
     }
     
     .meio3 {
@@ -76,7 +76,6 @@
         width:46vw;
         height:270px;
         font-size:1vw;
-        margin-left:30px;
         z-index:10000;
         margin-top:20px;
     }
