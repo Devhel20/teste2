@@ -12,31 +12,81 @@
         float:right;
     }
     
-    .menu {
-        width:110vw;
+    .titulo {
+        font-size:7vw;
+    }
+    
+    .conect {
+        float:right;
+        background-color:#55ff97;
+        width:79vw;
         height:80px;
-        font-size:1vw;
-        background-color:#b8b8b8;
+        border:0px black solid;
+    }
+    
+    .conect2 {
+        z-index:100000000000000;
+        width:90vw;
+        height:80px;
+        background-color:#55ff97;
+        border:3px black solid;
+    }
+    
+    .pesquisa {
+        float:left;
+        background-color:#ffffff;
+        width:105vw;
+        height:80px;
+        margin-top:10px;
+    }
+    
+    input {
+        
+        margin-top:20px;
+        border-radius:20px;
+        width:70vw;
+        height:40px;
+        font-size:6vw;
+        margin-left:20px;
+    }
+    
+    .pb {
+        width:26vw;
+        height:42px;
+        font-size:6vw;
+        border-radius:20px;
+    }
+    
+
+    
+    
+    
+    .menu {
+        width:13vw;
+        height:80px;
+        font-size:20px;
+        background-color:#55ff97;
         border: 3px black solid;
+        
         
     }
     
     .baixo {
-        width:110vw;
-        height:600px;
+        width:100vw;
+        height:300px;
     }
     
     .final {
         font-size:2vw;
         border: 3px solid black;
-        width:110vw;
+        width:105vw;
         height:100px;
-        background-color:#b8b8b8;;
+        background-color:#55ff97;;
     }
     
     .meio {
         float:right;
-        width:110vw;
+        width:105vw;
         height:300px;
         font-size:5vw;
         margin-right:-30px;
@@ -47,10 +97,10 @@
     
     .her {
         border:0px;
-        background-color:#b8b8b8;
+        background-color:#55ff97;
         font-size:15vw;
         width:13vw;
-        z-index:2000;
+        z-index:1000000000000000000;
         height:80px;
     }
     
@@ -63,23 +113,23 @@
     
     .meio2 {
         float:right;
-        width:48vw;
+        width:49vw;
         height:270px;
         font-size:1vw;       
         z-index:10000;
         margin-top:20px;
-        margin-left:-50px;
+        margin-right:-50px;
         
     }
     
     .meio3 {
         float:left;
-        width:48vw;
+        width:49vw;
         height:270px;
         font-size:1vw;
         z-index:10000;
         margin-top:20px;
-        margin-left:30px;
+        margin-left:20px;
     }
     
     
@@ -87,17 +137,13 @@
     
     
     .t {
-        width:110vw;
+        width:105vw;
         height:2px;
         background-color:#c7c7c7;
         clear:both;
     }
     
-    .search2 {
-        margin-top:20px;
-        border:0px;
-        background-color:#ffffff;
-    }
+    
     
     
     .link {
@@ -111,9 +157,10 @@
     }
     
     .sepa {
-        width:110vw;
+        width:105vw;
         height:2px;
         background-color:#c7c7c7;
+        
     }
     
     img {
@@ -123,14 +170,6 @@
         
     }
     
-    .pes {
-        width:110vw;
-        height:100px;
-        background-color:#ffffff;
-        align-items:left;
-        float:left;
-        
-    }
     
     .lupa {
         width:12vw;
@@ -140,16 +179,7 @@
         border:0px;
     }
     
-    input {
-        width:80vw;
-        height:55px;
-        border-radius:50px;
-        margin-top:10px;
-        margin-left:120px;
-        font-size:5vw;
-        border:1px black solid;
-        float:left;
-    }
+
     
     .link2 {
         display:none;
@@ -161,13 +191,15 @@
     }
     
     #link.active {
-        display:block;
-        justify-content:space-around;
+        display:flex;
+        justify-content:space-between;
         align-items:center;
-        background-color:#b8b8b8;
+        background-color:#55ff97;
         z-index:10000000;
-        width:40vw;
-        height:110px;
+        width:50vw;
+        height:200px;
+        line-height:50px;
+        border:3px black solid;
         
         
     }
@@ -177,7 +209,7 @@
         align-items:center;
         justify-content:space-around;
         width:43vw;
-        height:280px;
+        height:80px;
         background-color:#b8b8b8;
         z-index:100000;
         border:0px black solid;
@@ -207,4 +239,6 @@
         
     }
 }
+
+
 
