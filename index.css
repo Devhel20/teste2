@@ -19,14 +19,14 @@
     .conect {
         float:right;
         background-color:#55ff97;
-        width:79vw;
+        width:74vw;
         height:80px;
         border:0px black solid;
     }
     
     .conect2 {
         z-index:100000000000000;
-        width:90vw;
+        width:85vw;
         height:80px;
         background-color:#55ff97;
         border:3px black solid;
@@ -35,7 +35,7 @@
     .pesquisa {
         float:left;
         background-color:#ffffff;
-        width:105vw;
+        width:100vw;
         height:80px;
         margin-top:10px;
     }
@@ -79,14 +79,14 @@
     .final {
         font-size:2vw;
         border: 3px solid black;
-        width:105vw;
+        width:100vw;
         height:100px;
         background-color:#55ff97;;
     }
     
     .meio {
         float:right;
-        width:105vw;
+        width:100vw;
         height:300px;
         font-size:5vw;
         margin-right:-30px;
@@ -137,7 +137,7 @@
     
     
     .t {
-        width:105vw;
+        width:100vw;
         height:2px;
         background-color:#c7c7c7;
         clear:both;
@@ -157,7 +157,7 @@
     }
     
     .sepa {
-        width:105vw;
+        width:100vw;
         height:2px;
         background-color:#c7c7c7;
         
