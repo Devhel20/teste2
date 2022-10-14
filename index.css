@@ -81,7 +81,7 @@
         border: 3px solid black;
         width:105vw;
         height:100px;
-        background-color:#b5ffa;
+        background-color:#b5ffaa;
     }
     
     .meio {
@@ -97,7 +97,7 @@
     
     .her {
         border:0px;
-        background-color:#b5ffa;
+        background-color:#b5ffaa;
         font-size:15vw;
         width:17vw;
         z-index:1000000000000000000;
@@ -113,7 +113,7 @@
     
     .meio2 {
         float:right;
-        width:49vw;
+        width:50vw;
         height:270px;
         font-size:1vw;       
         z-index:10000;
@@ -124,7 +124,7 @@
     
     .meio3 {
         float:left;
-        width:49vw;
+        width:50vw;
         height:270px;
         font-size:1vw;
         z-index:10000;
@@ -164,7 +164,7 @@
     }
     
     img {
-        width:49vw;
+        width:50vw;
         height:180px;
         border:1px black solid;
         border-radius:20px;
@@ -195,7 +195,7 @@
         display:flex;
         justify-content:space-between;
         align-items:center;
-        background-color:#b5ffa;
+        background-color:#b5ffaa;
         z-index:10000000;
         width:50vw;
         height:200px;
