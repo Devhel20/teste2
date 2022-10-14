@@ -29,7 +29,8 @@
         width:85vw;
         height:80px;
         background-color:#b5ffaa;
-        border:3px black solid;
+        border:2px black solid;
+        border-radius:20px;
     }
     
     .pesquisa {
@@ -66,7 +67,9 @@
         height:80px;
         font-size:20px;
         background-color:#b5ffa;
-        border: 3px black solid;
+        border: 2px black solid;
+        border-radius:20px;
+
         
         
     }
@@ -78,10 +81,11 @@
     
     .final {
         font-size:2vw;
-        border: 3px solid black;
+        border: 2px solid black;
         width:105vw;
         height:100px;
         background-color:#b5ffaa;
+        border-radius:20px;
     }
     
     .meio {
