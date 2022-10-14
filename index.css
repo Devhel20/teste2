@@ -19,9 +19,10 @@
     .conect {
         float:right;
         background-color:#55ff97;
-        width:20vw;
-        height:20px;
+        width:85vw;
+        height:80px;
         border:0px black solid;
+        border-radius:20px;
     }
     
     .conect2 {
