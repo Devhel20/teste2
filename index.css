@@ -19,8 +19,8 @@
     .conect {
         float:right;
         background-color:#55ff97;
-        width:74vw;
-        height:80px;
+        width:20vw;
+        height:20px;
         border:0px black solid;
     }
     
@@ -106,6 +106,7 @@
         width:17vw;
         z-index:1000000000000000000;
         height:80px;
+        border-radius:20px;
     }
     
     .meio section{
