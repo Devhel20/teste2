@@ -26,16 +26,16 @@
     
     .conect2 {
         z-index:100000000000000;
-        width:80vw;
+        width:85vw;
         height:80px;
-        background-color:#55ff97;
+        background-color:#b5ffaa;
         border:3px black solid;
     }
     
     .pesquisa {
         float:left;
         background-color:#ffffff;
-        width:100vw;
+        width:105vw;
         height:80px;
         margin-top:10px;
     }
@@ -65,28 +65,28 @@
         width:17vw;
         height:80px;
         font-size:20px;
-        background-color:#55ff97;
+        background-color:#b5ffa;
         border: 3px black solid;
         
         
     }
     
     .baixo {
-        width:100vw;
+        width:105vw;
         height:300px;
     }
     
     .final {
         font-size:2vw;
         border: 3px solid black;
-        width:100vw;
+        width:105vw;
         height:100px;
-        background-color:#55ff97;;
+        background-color:#b5ffa;
     }
     
     .meio {
         float:right;
-        width:100vw;
+        width:105vw;
         height:300px;
         font-size:5vw;
         margin-right:-30px;
@@ -97,7 +97,7 @@
     
     .her {
         border:0px;
-        background-color:#55ff97;
+        background-color:#b5ffa;
         font-size:15vw;
         width:17vw;
         z-index:1000000000000000000;
@@ -113,7 +113,7 @@
     
     .meio2 {
         float:right;
-        width:45vw;
+        width:49vw;
         height:270px;
         font-size:1vw;       
         z-index:10000;
@@ -124,7 +124,7 @@
     
     .meio3 {
         float:left;
-        width:45vw;
+        width:49vw;
         height:270px;
         font-size:1vw;
         z-index:10000;
@@ -137,7 +137,7 @@
     
     
     .t {
-        width:100vw;
+        width:105vw;
         height:2px;
         background-color:#c7c7c7;
         clear:both;
@@ -157,14 +157,14 @@
     }
     
     .sepa {
-        width:100vw;
+        width:105vw;
         height:2px;
         background-color:#c7c7c7;
         
     }
     
     img {
-        width:45vw;
+        width:49vw;
         height:180px;
         border:1px black solid;
         border-radius:20px;
@@ -195,7 +195,7 @@
         display:flex;
         justify-content:space-between;
         align-items:center;
-        background-color:#55ff97;
+        background-color:#b5ffa;
         z-index:10000000;
         width:50vw;
         height:200px;
