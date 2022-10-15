@@ -2,7 +2,7 @@
     * {
         margin:1;
         padding:1;
-        overflow-x:hidden;
+        
     }
     
     .dentro {
@@ -20,10 +20,11 @@
     .conect {
         float:right;
         background-color:#55ff97;
-        width:79vw;
+        width:100%;
         height:80px;
         border:0px black solid;
         border-radius:20px;
+        overflow-x:hidden;
     }
     
     .conect2 {
@@ -33,6 +34,7 @@
         background-color:#b5ffaa;
         border:2px black solid;
         border-radius:20px;
+        overflow-x:hidden;
     }
     
     .pesquisa {
@@ -65,7 +67,7 @@
     
     
     .menu {
-        width:13vw;
+        width:15vw;
         height:80px;
         font-size:20px;
         background-color:#b5ffa;
@@ -88,6 +90,7 @@
         height:100px;
         background-color:#b5ffaa;
         border-radius:20px;
+        overflow-x:hidden;
     }
     
     .meio {
