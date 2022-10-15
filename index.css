@@ -2,6 +2,7 @@
     * {
         margin:1;
         padding:1;
+        overflow-x:hidden;
     }
     
     .dentro {
@@ -30,7 +31,7 @@
         width:100%;
         height:80px;
         background-color:#b5ffaa;
-        border:1px black solid;
+        border:2px black solid;
         border-radius:20px;
     }
     
@@ -68,7 +69,7 @@
         height:80px;
         font-size:20px;
         background-color:#b5ffa;
-        border: 1px black solid;
+        border: 2px black solid;
         border-radius:20px;
 
         
@@ -82,7 +83,7 @@
     
     .final {
         font-size:2vw;
-        border: 1px solid black;
+        border: 2px solid black;
         width:100%;
         height:100px;
         background-color:#b5ffaa;
