@@ -20,7 +20,7 @@
     .conect {
         float:right;
         background-color:#55ff97;
-        width:100%;
+        width:80%;
         height:80px;
         border:0px black solid;
         border-radius:20px;
@@ -176,7 +176,7 @@
     img {
         width:42vw;
         height:180px;
-        border:1px black solid;
+        border:2px black solid;
         border-radius:20px;
         
     }
