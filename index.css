@@ -24,7 +24,7 @@
         height:80px;
         border:0px black solid;
         border-radius:20px;
-        overflow-x:hidden;
+        
     }
     
     .conect2 {
@@ -34,7 +34,7 @@
         background-color:#b5ffaa;
         border:2px black solid;
         border-radius:20px;
-        overflow-x:hidden;
+        
     }
     
     .pesquisa {
