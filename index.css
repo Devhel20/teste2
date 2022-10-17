@@ -1,4 +1,4 @@
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 580px) {
     * {
         margin:1;
         padding:1;
@@ -14,7 +14,7 @@
     }
     
     .titulo {
-        font-size:5vw;
+        font-size:7vw;
     }
     
     .conect {
@@ -256,7 +256,7 @@
 
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 580px) {
     * {
         margin:1;
         padding:1;
