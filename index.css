@@ -278,7 +278,7 @@
     
     .conect {
         float:right;
-        background-color:#55ff97;
+        background-color:#ffffff;
         width:80%;
         height:80px;
         border:0px black solid;
@@ -313,13 +313,13 @@
         width:45vw;
         height:42px;
         font-size:30px;
-        margin-left:120px;
+        margin-left:30%;
     }
     
     .pb {
         width:16vw;
         height:42px;
-        font-size:40px;
+        font-size:4vw;
         border-radius:20px;
         margin-top:10px;
     }
@@ -347,7 +347,7 @@
     }
     
     .final {
-        font-size:0.5vw;
+        font-size:1vw;
         border: 2px solid black;
         width:100%;
         height:100px;
@@ -534,13 +534,13 @@
     }
     
     .titulo {
-        font-size:2vw;
+        font-size:2.5vw;
         margin-left:20px;
     }
     
     .conect {
         float:right;
-        background-color:#55ff97;
+        background-color:#ffffff;
         width:80%;
         height:80px;
         border:0px black solid;
@@ -556,7 +556,7 @@
         background-color:#8be485;
         border:2px black solid;
         border-radius:20px;
-        margin-left:-30px;
+        margin-left:-50px;
         
     }
     
@@ -575,13 +575,13 @@
         width:45vw;
         height:42px;
         font-size:30px;
-        margin-left:120px;
+        margin-left:30%;
     }
     
     .pb {
         width:16vw;
         height:42px;
-        font-size:0.8vw;
+        font-size:2vw;
         border-radius:20px;
         margin-top:10px;
     }
@@ -591,7 +591,7 @@
     
     
     .menu {
-        width:11vw;
+        width:10vw;
         height:80px;
         font-size:7vw;
         background-color:#8be485;
@@ -609,7 +609,7 @@
     }
     
     .final {
-        font-size:0.5vw;
+        font-size:2vw;
         border: 2px solid black;
         width:100%;
         height:100px;
@@ -633,7 +633,7 @@
         border:0px;
         background-color:#8be485;
         font-size:7vw;
-        width:11vw;
+        width:10vw;
         z-index:1000000000000000000;
         height:80px;
         border-radius:20px;
