@@ -798,7 +798,7 @@
     }
     
     .titulo {
-        font-size:3vw;
+        font-size:4vw;
         margin-left:20px;
     }
     
@@ -876,7 +876,7 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:220px;
+        height:200px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
