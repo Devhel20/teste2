@@ -313,7 +313,7 @@
         width:45vw;
         height:42px;
         font-size:30px;
-        margin-left:30%;
+        margin-left:20%;
     }
     
     .pb {
@@ -331,7 +331,7 @@
     .menu {
         width:13vw;
         height:80px;
-        font-size:7vw;
+        font-size:6vw;
         background-color:#8be485;
         border: 2px black solid;
         border-radius:20px;
@@ -347,10 +347,10 @@
     }
     
     .final {
-        font-size:1vw;
+        font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:100px;
+        height:220px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
@@ -575,7 +575,7 @@
         width:45vw;
         height:42px;
         font-size:30px;
-        margin-left:30%;
+        margin-left:20%;
     }
     
     .pb {
@@ -612,7 +612,7 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:100px;
+        height:220px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
