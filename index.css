@@ -87,7 +87,7 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:100px;
+        height:40px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
@@ -350,7 +350,7 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:80px;
+        height:70px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
@@ -534,7 +534,7 @@
     }
     
     .titulo {
-        font-size:50px;
+        font-size:20px;
         margin-left:20px;
     }
     
@@ -876,7 +876,7 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:80px;
+        height:40px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
