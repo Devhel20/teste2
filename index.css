@@ -350,7 +350,7 @@
         font-size:1vw;
         border: 2px solid black;
         width:100%;
-        height:220px;
+        height:180px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
@@ -534,7 +534,7 @@
     }
     
     .titulo {
-        font-size:2vw;
+        font-size:1vw;
         margin-left:20px;
     }
     
@@ -609,10 +609,10 @@
     }
     
     .final {
-        font-size:2vw;
+        font-size:1vw;
         border: 2px solid black;
         width:100%;
-        height:240px;
+        height:210px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
@@ -873,10 +873,10 @@
     }
     
     .final {
-        font-size:2vw;
+        font-size:1vw;
         border: 2px solid black;
         width:100%;
-        height:200px;
+        height:180px;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
