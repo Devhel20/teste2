@@ -14,7 +14,7 @@
     }
     
     .titulo {
-        font-size:6vw;
+        font-size:16vw;
     }
     
     .conect {
@@ -272,7 +272,7 @@
     }
     
     .titulo {
-        font-size:1vw;
+        font-size:20px;
         margin-left:20px;
     }
     
@@ -350,10 +350,11 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:8vh;
+        height:9vh;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
+        overflow-y:hidden;
     }
     
     .meio {
@@ -612,10 +613,11 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:8vh;
+        height:9vh;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
+        overflow-y:hidden;
     }
     
     .meio {
@@ -876,10 +878,11 @@
         font-size:2vw;
         border: 2px solid black;
         width:100%;
-        height:8vh;
+        height:9vh;
         background-color:#8be485;
         border-radius:20px;
         overflow-x:hidden;
+        overflow-y:hidden;
     }
     
     .meio {
