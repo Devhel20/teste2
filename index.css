@@ -534,7 +534,7 @@
     }
     
     .titulo {
-        font-size:1vw;
+        font-size:0.7vw;
         margin-left:20px;
     }
     
@@ -574,7 +574,7 @@
         border-radius:20px;
         width:45vw;
         height:42px;
-        font-size:30px;
+        font-size:21px;
         margin-left:20%;
     }
     
