@@ -608,7 +608,7 @@
     .menu {
         width:13vw;
         height:80px;
-        font-size:6vw;
+        font-size:4vw;
         background-color:#8be485;
         border: 2px black solid;
         border-radius:20px;
@@ -624,7 +624,7 @@
     }
     
     .final {
-        font-size:10px;
+        font-size:2vw;
         border: 2px solid black;
         width:100%;
         height:9vh;
@@ -648,7 +648,7 @@
     .her {
         border:0px;
         background-color:#8be485;
-        font-size:7vw;
+        font-size:5vw;
         width:13vw;
         z-index:1000000000000000000;
         height:80px;
@@ -875,7 +875,7 @@
     .menu {
         width:13vw;
         height:80px;
-        font-size:6vw;
+        font-size:4vw;
         background-color:#8be485;
         border: 2px black solid;
         border-radius:20px;
@@ -891,7 +891,7 @@
     }
     
     .final {
-        font-size:10px;
+        font-size:3vw;
         border: 2px solid black;
         width:100%;
         height:15vh;
@@ -915,7 +915,7 @@
     .her {
         border:0px;
         background-color:#8be485;
-        font-size:7vw;
+        font-size:5vw;
         width:13vw;
         z-index:1000000000000000000;
         height:80px;
