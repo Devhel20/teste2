@@ -102,7 +102,7 @@
     }
     
     
-    a {
+    .aa1 {
         color:black;
         text-decoration:none;
         font-family:sans-serif;
@@ -232,7 +232,7 @@
     }
     
     
-    a {
+    .aa1 {
         color:black;
         text-decoration:none;
         font-family:sans-serif;
@@ -364,7 +364,7 @@
     }
     
     
-    a {
+    .aa1 {
         color:black;
         text-decoration:none;
         font-family:sans-serif;
@@ -380,7 +380,7 @@
     
     nav-list li {
         letter-spacing:50px;
-        margin-left:50px;
+        margin-left:-50px;
         
     }
 }
@@ -493,7 +493,7 @@
     }
     
     
-    a {
+    .aa1 {
         color:black;
         text-decoration:none;
         font-family:sans-serif;
@@ -509,7 +509,7 @@
     
     nav-list li {
         letter-spacing:50px;
-        margin-left:50px;
+        margin-left:-50px;
         
     }
 }
