@@ -340,7 +340,7 @@
         align-items:center;
         background-color:#8be485;
         z-index:10000000;
-        width:35vw;
+        width:28vw;
         height:200px;
         line-height:50px;
         border:2px black solid;
@@ -353,7 +353,7 @@
         display:flex;
         align-items:center;
         justify-content:space-around;
-        width:35vw;
+        width:28vw;
         height:80px;
         background-color:#b8b8b8;
         z-index:100000;
@@ -370,7 +370,7 @@
         font-family:sans-serif;
         font-size:20px;
         letter-spacing:4px;
-        margin-left:80px;
+        margin-left:-30px;
         top:15px;
     }
     
@@ -469,7 +469,7 @@
         align-items:center;
         background-color:#8be485;
         z-index:10000000;
-        width:35vw;
+        width:28vw;
         height:200px;
         line-height:50px;
         border:2px black solid;
@@ -482,7 +482,7 @@
         display:flex;
         align-items:center;
         justify-content:space-around;
-        width:35vw;
+        width:28vw;
         height:80px;
         background-color:#b8b8b8;
         z-index:100000;
@@ -499,7 +499,7 @@
         font-family:sans-serif;
         font-size:20px;
         letter-spacing:4px;
-        margin-left:80px;
+        margin-left:-30px;
         top:15px;
     }
     
